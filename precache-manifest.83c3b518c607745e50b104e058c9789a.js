@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0ab38575f9c8d18d0455a885c1ddb4b",
+    "revision": "cb822201426980d1d75fd829db17f04c",
     "url": "/hushpuppies/index.html"
   },
   {
-    "revision": "3dae95413655b1f8d16d",
+    "revision": "51d076b4b0f732902ac9",
     "url": "/hushpuppies/static/css/2.0be0be60.chunk.css"
   },
   {
-    "revision": "baf51845c3fa7c3ac243",
+    "revision": "8bb17ab81287db0e9106",
     "url": "/hushpuppies/static/css/main.627a0eb0.chunk.css"
   },
   {
-    "revision": "3dae95413655b1f8d16d",
-    "url": "/hushpuppies/static/js/2.6600e020.chunk.js"
+    "revision": "51d076b4b0f732902ac9",
+    "url": "/hushpuppies/static/js/2.355f99e9.chunk.js"
   },
   {
     "revision": "f5fc2541aa70c66bed1d80d3f2a13057",
-    "url": "/hushpuppies/static/js/2.6600e020.chunk.js.LICENSE"
+    "url": "/hushpuppies/static/js/2.355f99e9.chunk.js.LICENSE"
   },
   {
-    "revision": "baf51845c3fa7c3ac243",
-    "url": "/hushpuppies/static/js/main.ca76909b.chunk.js"
+    "revision": "8bb17ab81287db0e9106",
+    "url": "/hushpuppies/static/js/main.08150322.chunk.js"
   },
   {
     "revision": "74a2da25f63b7a598415",
